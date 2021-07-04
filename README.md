@@ -1,4 +1,4 @@
-# Decision-Tree
+# Task 6 Decision-Tree
 This is my internship project
 
 
